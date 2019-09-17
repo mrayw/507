@@ -1,3 +1,6 @@
 print("My name is Valyn")
-print("I am from Indiana")
+<<<<<<< HEAD
 
+=======
+print("what is for lunch?")
+>>>>>>> refs/remotes/origin/master
