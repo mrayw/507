@@ -1,2 +1,2 @@
-print("My name is________")
-print("The year is_______")
+print("My name is Valyn")
+
